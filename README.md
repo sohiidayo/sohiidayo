@@ -1,6 +1,6 @@
 ### Sohii desu 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohiidayo&layout=compact)](https://github.com/sohiidayo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christmas)](https://github.com/Christmas/github-readme-stats)
 
 <!--
 **sohiidayo/sohiidayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
